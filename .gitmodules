@@ -1,3 +1,6 @@
-[submodule "auth-service"]
-	path = auth-service
-	url = git@github.com:kimcodec/auth-service.git
+[submodule "chat_server"]
+	path = chat_server
+	url = git@github.com:kimcodec/chat_server.git
+[submodule "auth_service"]
+	path = auth_service
+	url = git@github.com:kimcodec/auth_service.git
